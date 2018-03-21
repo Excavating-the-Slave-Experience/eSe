@@ -1,4 +1,4 @@
-# Escavating the Slave Experience (eSē)
+# Escavating the Slave Experience (eSe)
  
 
 The *Excavating the Slave Experience* project is a visual interrogation, spatial and temporal, of several networks of textual and visual datasets. Primary among these datasets are North Carolina’s fugitive slave advertisements (captured from the [*North Carolina Runaway Slave Advertisements*](http://libcdm1.uncg.edu/cdm/landingpage/collection/RAS) database created, in part, and hosted by the University Libraries of The University of North Carolina at Greensboro). Through juxtaposition of these networks on a digital timeline and map, the goal of the project is twofold: (1) to offer researchers and university students exposure to any trends or correlations that could lead to further (or enrich their) existing studies and (2) to offer a pedagogical tool for instructors of secondary learners and for the public, in general. 
