@@ -1,0 +1,9 @@
+Early strategy planning and selection of platform
+Filter metadata set for project: Final set reduced to include ads with the following metadata elements in common: date of departure, place of residence, presumed destination, slave name, slaveholder. These in addition to: headline, date of ad, newspaper, location of newspaper, and administrative metadata. 
+JP2 files converted to jpg (Tristen). I copied converted files to a folder on Reclaim Hosting for to link files to metadata in csv bulk upload.
+Uploaded metadata set and files to Omeka. Selected themes and customized CSS (ongoing)
+Added metadata elements to record-metadata.php 
+Started an exhibit - This day in history. Currently it is based on day of ad, but I am changing that to day of departure. I agree that a narrative can be outlined with metadata and with that in mind, date of departure is more significant.
+I embedded code for Creative Commons license in footer of both site theme and exhibit theme but it is not appearing. I'm workign on finding out why and how to fix it.
+*To do before Wednesday: finalize elements to display on browse items page and reorganize metadata elements on items page
+I'm still working on CSS to change font style and size in main navigation.
